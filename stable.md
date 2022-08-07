@@ -1,4 +1,4 @@
-# 1.2.0.17
+# 2.0.0
 
 -Multi Idiomas agregado (Depende del idioma de tu dispositivo)
 -9 Servidores en Inglés Añadidos.
